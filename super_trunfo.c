@@ -79,6 +79,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais \n", pib_cid2);
     printf("Número de Pontos Turísticos: %d", pontos_cid2);
 
-                                                                                                                    
+          
+    
    return 0;
 }
